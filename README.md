@@ -5,7 +5,7 @@
  <a href="https://github.com/devduongnghia/Muroku/issues"><img alt="MatrixTM issues" src="https://img.shields.io/github/issues/devduongnghia/Muroku?color=purple&style=for-the-badge"></a>
    <img src="https://img.shields.io/github/license/cutipu/HASOKI?color=%23E8E8E8&style=for-the-badge"/> &nbsp;
 </p>
- DDoS Attack Panel includes CloudFlare Bypass (UAM, CAPTCHA, GS ,VS ,BFM, etc..)<br/><br/>
+ DDoS C2 Panel includes CloudFlare Bypass (UAM, CAPTCHA, GS ,VS ,BFM, etc..)<br/><br/>
  This is open source code. I am not responsible if you use it for malicious attacks!
  USERNAME: admin
  PASSWORD: admin
@@ -26,11 +26,6 @@
  <img src="https://img.shields.io/badge/Python-FFDD00?style=for-the-badge&logo=python&logoColor=blue"/></br>
 </div>
 
-## Menu
-![hasoki](https://www.linkpicture.com/q/Untitled1_18.png)
-
-## SKY ATTACK
-![hasoki](https://www.linkpicture.com/q/Untitled7_1.png)
 # Usage
 ```sh
 You must use Python 3.9 or higher
